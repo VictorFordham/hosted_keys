@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "alg": "RS256",
+            "e": "65537",
+            "kid": "330fbf04-36d3-4a3b-b8ec-aac9a6b743bf",
+            "kty": "RSA",
+            "n": "acfc9c05bc9a0caa5afe72524440a254025a2550f388d9b245ddf90f2a3fffb24b217df63a73442890a44028bdcd43071cdfa75e5cdde55457dabfc54fba2eee04af8e9a8ffc5637b33996fdb2fcb4914bf757f4d97d604a8b63b9d1422e4ccdba94f84258c40d1d12261590dce2cf3483eda00fd0efe5db7a1e1e783db1a70ad6865e754c88cc5600bf223e5e46831fe9976a7a47a920db5066acbf909d8654e51af8bf3def2c6894cb754cdcd68654fea3f7b263069e229a6a533affc5023228a9ce99decc178108d059bb4f4276161b46e459061971e3afd20a4744efa8957f9d719ab1ff636249a8b273c3a09d24204f209ec657594bdcf17df8022ef61d",
+            "use": "sig"
+        }
+    ]
+}
